@@ -11,5 +11,5 @@ This bot is developed using Python and [Tracery](https://github.com/aparrish/pyt
 
 `black_card_tracery.txt` : contains the tracery to generate the black cards as a txt file 
 
-`white_card_tracery.txt` : contains the tracery to generate the white cards as a txt file (works on CBDQ only if a \ is added befor # in the hashtags) 
+`white_card_tracery.txt` : contains the tracery to generate the white cards as a txt file
 
