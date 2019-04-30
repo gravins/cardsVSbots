@@ -3,8 +3,6 @@
 
 This bot is developed using Python and [Tracery](https://github.com/aparrish/pytracery). 
 
-`cards_generator.py` : tracery generator for the 2 decks
-
 `scraper.py` : Python module based on Selenium to scraping Twitter web page
 
 `twitterbot.py` : twitterbot script
