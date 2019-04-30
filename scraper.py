@@ -87,3 +87,4 @@ def make_poll(driver, text, choice1, choice2, choice3, choice4):
     time.sleep(2)
     tweet = driver.find_element_by_xpath("//span[@class='add-tweet-button ']//following-sibling::button[contains(@class,'tweet-action')]")
     tweet.click()
+    time.sleep(2)
